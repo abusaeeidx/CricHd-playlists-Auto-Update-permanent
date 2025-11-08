@@ -1,212 +1,338 @@
 [
     {
         "name": "Star Sports 1",
+        "id": "star1in",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d9.merichunidya.com:1686/hls/star1in.m3u8?md5=uRT8S3t7cofl7VSt32yHww&expires=1762644904",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Star Sports 1 Hindi",
+        "id": "starhindi",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d5.merichunidya.com:1686/hls/starhindi.m3u8?md5=nIvoMTKm1RSIA2sZ6XYZHA&expires=1762644906",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "PTV Sports",
+        "id": "ptvpk",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d9.merichunidya.com:1686/hls/ptvpk.m3u8?md5=CVyURNJ_ckEiiOrNT5SJrg&expires=1762644907",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Willow HD",
+        "id": "willowusa",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=NAhEYFdsOAHVZ-wGbcdIRQ&expires=1762644909",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Willow HD 2",
+        "id": "willowextra",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d8.merichunidya.com:1686/hls/willowextra.m3u8?md5=SUFFPdnb0ve7DwDr0kihvA&expires=1762644911",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Ten Sports",
+        "id": "tenspk",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d10.merichunidya.com:1686/hls/tenspk.m3u8?md5=Zrponmxyo9pCsRHojyeMyA&expires=1762644914",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "A Sports HD",
+        "id": "asportshd",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=pbos3X5De_KHklFXvynOkg&expires=1762644916",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Cricket",
+        "id": "skyscric",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d7.merichunidya.com:1686/hls/skyscric.m3u8?md5=m-bfo0s2LkffHJttYjQNFw&expires=1762644918",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Main Event",
+        "id": "skysme",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d8.merichunidya.com:1686/hls/skysme.m3u8?md5=GvOHzaF5XFZidXA8hfRSqQ&expires=1762644919",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "TNT 1",
+        "id": "bbtsp1",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d5.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=vGggDMGETEfynbqPymoVZg&expires=1762644920",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "TNT 2",
+        "id": "bbtsp2",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d6.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=A_4f8MHbZzpiAUl5SeORcQ&expires=1762644922",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "TNT 3",
+        "id": "bbtsp3",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d6.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=Vsblfz4meB_MlAs5ETDPEg&expires=1762644924",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "TNT 4",
+        "id": "bbtespn",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d9.merichunidya.com:1686/hls/bbtespn.m3u8?md5=t36yazIsGQ5FKkoiZCDJww&expires=1762644925",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport Nz 1",
+        "id": "sky1nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d3.merichunidya.com:1686/hls/sky1nz.m3u8?md5=im5cT9Q0tLoiKYvmpvBgzA&expires=1762644927",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport Nz 2",
+        "id": "sky2nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d6.merichunidya.com:1686/hls/sky2nz.m3u8?md5=5SWmRZDR84xklJZY4EPTsA&expires=1762644929",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport Nz 3",
+        "id": "sky3nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d9.merichunidya.com:1686/hls/sky3nz.m3u8?md5=gn14gXup-cp2wVvXK8iUFQ&expires=1762644930",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport Nz 4",
+        "id": "sky4nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d5.merichunidya.com:1686/hls/sky4nz.m3u8?md5=7gbCA4K2BSbxwJ4N79tB3g&expires=1762644932",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport Nz 5",
+        "id": "sky5nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d1.merichunidya.com:1686/hls/sky5nz.m3u8?md5=PYYzqthD9gfrO5clM__lyQ&expires=1762644934",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport 6 Nz",
+        "id": "sky6nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d9.merichunidya.com:1686/hls/sky6nz.m3u8?md5=ZUmifLS3pgnNMBWzuGpqxQ&expires=1762644935",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport Nz 7",
+        "id": "sky7nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d9.merichunidya.com:1686/hls/sky7nz.m3u8?md5=PrYWCHdqc4YlUGuLbOAWOQ&expires=1762644937",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport Nz 8",
+        "id": "sky8nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d10.merichunidya.com:1686/hls/sky8nz.m3u8?md5=2nnI7fPPiiBxOXDfQa7ksg&expires=1762644939",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sport Nz 9",
+        "id": "sky9nz",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d2.merichunidya.com:1686/hls/sky9nz.m3u8?md5=mZr3KCNq7EHL5BhSrQr17Q&expires=1762644940",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Cinema",
+        "id": "skysme",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d10.merichunidya.com:1686/hls/skysme.m3u8?md5=McUnA6h-OQuLc2uZWCOATw&expires=1762644942",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Action",
+        "id": "skysact",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d8.merichunidya.com:1686/hls/skysact.m3u8?md5=7jNOScCLQo-YNhs-ntchoA&expires=1762644943",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Golf",
+        "id": "skysgol",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d8.merichunidya.com:1686/hls/skysgol.m3u8?md5=z99P9MHEGDd2B4HD68kR4g&expires=1762644945",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Premier League",
+        "id": "skysprem",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d2.merichunidya.com:1686/hls/skysprem.m3u8?md5=QQck7dc_P-ZlrjbByjdc-g&expires=1762644946",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Football",
+        "id": "skysfott",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d9.merichunidya.com:1686/hls/skysfott.m3u8?md5=YQCxMwEVRAiAWQjna-2WXg&expires=1762644948",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Plus",
+        "id": "skysare",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d7.merichunidya.com:1686/hls/skysare.m3u8?md5=GtSOmrZryySpL0uY_9aD4A&expires=1762644950",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports F1",
+        "id": "skysfor1",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d10.merichunidya.com:1686/hls/skysfor1.m3u8?md5=gsmIxjpNDcpUlQYJ7dNtpQ&expires=1762644951",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "LaLiGA",
+        "id": "laligauk",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d6.merichunidya.com:1686/hls/laligauk.m3u8?md5=bzxq5tZ7IGebIr1A9527_A&expires=1762644952",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Premier Sports 1",
+        "id": "premieruk",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d1.merichunidya.com:1686/hls/premieruk.m3u8?md5=FMEnObUCsTZ4aRYt6X3dkQ&expires=1762644954",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Premier Sports 2",
+        "id": "hdchnl2",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d10.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=opPw2HA95H6QKbIty8u2YQ&expires=1762644956",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Super Football",
+        "id": "superfotball",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d4.merichunidya.com:1686/hls/superfotball.m3u8?md5=6eosxaieSxK4hodQyF6P1Q&expires=1762644958",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Super Premier League",
+        "id": "superpremier",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d2.merichunidya.com:1686/hls/superpremier.m3u8?md5=2LhL78pjVvJWbCgIimU5rw&expires=1762644960",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Astro Cricket",
+        "id": "fox501",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=MsMfQtwWJq1xTi_VVs2ADg&expires=1762644961",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "ESPN 1",
+        "id": "espnusa",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d9.merichunidya.com:1686/hls/espnusa.m3u8?md5=-iujhyhQN9HuHCcfL7oN1Q&expires=1762644963",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "ESPN 2",
+        "id": "espn2",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d8.merichunidya.com:1686/hls/espn2.m3u8?md5=xq7X7WJP3NmldSCvTABAHg&expires=1762644964",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Arena",
+        "id": "skysare",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=2A1-AQhiljjFyTscwCmJTw&expires=1762644966",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Mix",
+        "id": "skysmixx",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d5.merichunidya.com:1686/hls/skysmixx.m3u8?md5=Ok_NqGzhR0YKD1-vd296Fw&expires=1762644968",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sky Sports Tennis",
+        "id": "skystennis",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d10.merichunidya.com:1686/hls/skystennis.m3u8?md5=ARcak0tUYPcLzgL6AKFFjw&expires=1762644970",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Fox Cricket 501 HD",
+        "id": "fox501",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d8.merichunidya.com:1686/hls/fox501.m3u8?md5=sfPPZtGpijzPZbNnIjLIpA&expires=1762644972",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     },
     {
         "name": "Sony Sports3",
+        "id": "ten1hd",
         "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png",
-        "error": "Token not found or invalid format"
+        "link": "https://d6.merichunidya.com:1686/hls/ten1hd.m3u8?md5=0lBLDiHkmF0xxY2rX7gSXw&expires=1762644973",
+        "referer": "https://profamouslife.com/",
+        "origin": "https://profamouslife.com"
     }
 ]
