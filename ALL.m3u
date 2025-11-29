@@ -1,1 +1,9 @@
 #EXTM3U
+# By Abu SAEEID X Noob
+# Github @abusaeeidx
+# Update on 2025-11-30 05:18:36 (BD Time)
+# Note: I do not host any content, everything is publicly available.
+
+#EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="By XFIREFLIX",Fallback Channel
+https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
+
