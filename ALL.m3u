@@ -90,7 +90,7 @@ https://cdn8.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=TCRuGYQZFMNn9SS3EVypLw&expi
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png",Sky Cinema
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=8i_m3WV72DFhHCpkKtPyvw&expires=1787001589
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=5mdpCU7HcGEG9wsSajO0tg&expires=1787001619
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
@@ -167,3 +167,6 @@ https://cdn5.zohanayaan.com:1686/hls/fox501.m3u8?md5=X8gXMaqMX0VLvun_OngLFg&expi
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
 https://cdn3.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=RwtNIJou1qoa-C_1DKN1pQ&expires=1787001596
+
+#EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
+https://playztv.pages.dev/promo/master.m3u8
