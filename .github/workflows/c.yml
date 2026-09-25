@@ -1,0 +1,33 @@
+name: Clean Repository History
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clean-history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Remove Git history
+        run: rm -rf .git
+
+      - name: Create new Git history
+        run: |
+          git init
+          git config user.name "${{ secrets.GIT_U }}"
+          git config user.email "${{ secrets.GIT_E }}"
+          git add -A
+          git commit -m "Clean baseline"
+
+      - name: Replace remote history
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git branch -M main
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+          git push --force origin main
